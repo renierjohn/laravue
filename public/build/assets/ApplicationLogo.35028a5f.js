@@ -1,0 +1,1 @@
+import{o as r,g as s}from"./app.313367a8.js";const _=(o,c)=>{const t=o.__vccOpts||o;for(const[e,n]of c)t[e]=n;return t},a={},p={src:"https://i.pinimg.com/736x/85/9e/03/859e0396b1c628832ba6b7c47c4a95b5.jpg",alt:"pokemon"};function i(o,c){return r(),s("img",p)}const f=_(a,[["render",i]]);export{f as L,_};
